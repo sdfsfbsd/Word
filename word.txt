@@ -97,6 +97,7 @@ rehearsal 排练
 spectator 观众
 sour 酸的
 apt 倾向于
+apt 倾向于
 undergo 遭受
 undergo 遭受  
 undergo 遭受
